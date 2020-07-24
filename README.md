@@ -18,17 +18,17 @@ Data includes temperature,wind speed,humidity,percipitation,sunset and sunrise t
 This projects aims at providing an easy  and accurate access to weather infornmation across the globe.
 
 ## Screenshots
-1) Front page of canteen website
-![alt text](https://github.com/zhcet19/Nadeem-Tarin-Hall-Canteen-Management-System/blob/master/image%20folder/project1.png)
+1) Landing page
+![alt text](https://github.com/zhcet19/WeatherBug/blob/master/Camera%20Roll/landine.ejs.png)
 
 
 
-2) Login page of website
-![alt text](https://github.com/zhcet19/Nadeem-Tarin-Hall-Canteen-Management-System/blob/master/image%20folder/project2.png)
+2)About Us page
+![alt text](https://github.com/zhcet19/WeatherBug/blob/master/Camera%20Roll/index.png)
 
 
-3) Registration page
-![alt text](https://github.com/zhcet19/Nadeem-Tarin-Hall-Canteen-Management-System/blob/master/image%20folder/project7.png)
+3) Result page
+![alt text](https://github.com/zhcet19/WeatherBug/blob/master/Camera%20Roll/main.png)
 
 
 ## Technologies
